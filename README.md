@@ -32,3 +32,14 @@ $ python Client.py
 ```
 
 ### EXAMPLE :
+
+
+![Echo](https://user-images.githubusercontent.com/49061503/55616196-85a6ce80-57a6-11e9-8d15-7c9b0595467b.gif)
+
+
+# **Support**
+
+Reach out to me at one of the following places!
+
+- Telegram at <a href="https://t.me/msaeedmehr" target="_blank">@msaeedmehr</a>
+- Gmail at <a href="mailto:maryamsaeedmehr@gmail.com" target="_blank">maryamsaeedmehr@gmail.com</a>
